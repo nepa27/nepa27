@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Python+Developer;Django+Specialist;REST+API+Creator;Anti-Fraud+Enthusiast)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nepa27&color=blueviolet&style=flat-square)
-
 ### Python Developer | Backend Specialist 
 
 🔍 **Обо мне**   
@@ -44,29 +42,30 @@
 ### 🏆 Ключевые проекты
 
 #### 1. [Time Tracker](https://github.com/nepa27/time_tracker) 
-⏱️ Тайм-трекер с аналитикой продуктивности  
-✅ Ускорил контроль рабочего времени, повысил производительность труда
+⏱️ Тайм-трекер с аналитикой продуктивности       
+✅ Ускорил контроль рабочего времени, повысил производительность труда     
 🛠️ Стек: Python, Flask, SQLAlchemy, PostgreSQL, JWT, Nginx, gunicorn, Docker, CI/CD   
 
 #### 2. [Платформа для прохождения инструктажей](https://github.com/seva123321/Instruction) 
 🏭 Система предсменных инструктажей с 2FA для админа и FaceID для идентификации сотрудников  
-✅ Автоматизировал процесс обучения 200+ сотрудников предприятия 
+✅ Автоматизировал процесс обучения 200+ сотрудников предприятия  
 🛠️ Стек: Python, DRF, PostgreSQL, Celery, Redis, REST API  
 
 #### 3. [ToDoList](https://github.com/nepa27/todolist) 
 📝 Веб-приложение для управления задачами  
-✅ Оптимизировал workflow "начальник-подчиненный"  
+✅ Оптимизировал workflow "начальник-подчиненный"   
 🛠️ Стек: Django, PostgreSQL, Bootstrap
 
 #### 4. [Active Man (Хакатон)](https://github.com/Loftven/active_man) 
 🏆 Командный проект на Standoff Хакатон  
 🚀 Разработал бэкенд с функциями аутентификации пользователей, возможностью создания проектов и
-их выбором
+их выбором    
 🛠️ Стек: Python, Flask, SQLAlchemy, PostgreSQL, JWT, Nginx, gunicorn 
 
 ---
 
 ### 📊 GitHub Analytics
+![Profile Views](https://komarev.com/ghpvc/?username=nepa27&color=blueviolet&style=flat-square)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nepa27&show_icons=true&theme=radical)](https://github.com/nepa27)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepa27&layout=compact&theme=radical)](https://github.com/nepa27)
