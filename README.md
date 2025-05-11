@@ -52,12 +52,7 @@
 ✅ Автоматизировал процесс обучения 200+ сотрудников предприятия  
 🛠️ Стек: Python, DRF, PostgreSQL, Celery, Redis, REST API  
 
-#### 3. [ToDoList](https://github.com/nepa27/todolist) 
-📝 Веб-приложение для управления задачами  
-✅ Оптимизировал workflow "начальник-подчиненный"   
-🛠️ Стек: Django, PostgreSQL, Bootstrap
-
-#### 4. [Active Man (Хакатон)](https://github.com/Loftven/active_man) 
+#### 3. [Active Man (Хакатон)](https://github.com/Loftven/active_man) 
 🏆 Командный проект на Standoff Хакатон  
 🚀 Разработал бэкенд с функциями аутентификации пользователей, возможностью создания проектов и
 их выбором    
@@ -67,7 +62,6 @@
 
 ### 📊 GitHub Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=nepa27&color=blueviolet&style=flat-square)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nepa27&show_icons=true&theme=radical)](https://github.com/nepa27)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepa27&layout=compact&theme=radical)](https://github.com/nepa27)
 
