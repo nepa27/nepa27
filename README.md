@@ -7,9 +7,10 @@
 🔍 **Обо мне**   
 - 🎓 Начал программировать еще в университете, влюбился в Python за его универсальность
 - ⚙️ После учебы работал сисадмином, но понял, что мое призвание — создавать продукты
-- 📚 Глубоко погрузился в разработку: книги, курсы (включая Yandex Practicum)
-- 🏆 Участник хакатона от **Standoff**
+- 📚 Глубоко погрузился в разработку
+- 🏆 Участник хакатона от [**Standoff**](https://github.com/Loftven/active_man)
 - 🏆 **Победитель** хакатона [**"Марафон цифровых решений"**](https://github.com/seva123321/Instruction)
+- 🏆 Участник хакатона **Лидеры цифровой трансормации 2025**
 - 🕵️‍♂️ Участвовал в антифрод-стартапе (парсинг мошеннических ресурсов)
 - 🤖 Пишу Telegram-ботов на **aiogram3**
 - 🧠 Сильные стороны: организованность, инициативность, работа с многозадачностью
@@ -22,6 +23,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
