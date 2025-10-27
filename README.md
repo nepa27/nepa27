@@ -50,10 +50,11 @@
 ✅ Автоматизировал процесс обучения 200+ сотрудников предприятия  
 🛠️ Стек: Python, DRF, PostgreSQL, Celery, Redis, REST API  
 
-#### 2. [Time Tracker](https://github.com/nepa27/time_tracker) 
-⏱️ Тайм-трекер с аналитикой продуктивности       
-✅ Ускорил контроль рабочего времени, повысил производительность труда     
-🛠️ Стек: Python, Flask, SQLAlchemy, PostgreSQL, JWT, Nginx, gunicorn, Docker, CI/CD   
+#### 2. [BPLA Viewer](https://github.com/nepa27/bpla_viewer)
+🗺️ Сервис анализа полетов БПЛА по регионам РФ на основе данных Росавиации  
+✅ Создал парсер формализованных сообщений с 99,4% точностью и систему геопривязки к регионам  
+✅ Визуализировал тысячи точек маршрутов на карте с фильтрацией и админ-панелью  
+🛠️ Стек: Python, FastAPI, PostgreSQL, PostGIS, SQLAlchemy, React, D3.js, Yandex Maps API 
 
 #### 3. [Active Man (Хакатон)](https://github.com/Loftven/active_man) 
 🏆 Командный проект на Standoff Хакатон  
