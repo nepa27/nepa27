@@ -5,15 +5,11 @@
 ### Python Developer | Backend Specialist 
 
 🔍 **Обо мне**   
-- 🎓 Начал программировать еще в университете, влюбился в Python за его универсальность
-- ⚙️ После учебы работал сисадмином, но понял, что мое призвание — создавать продукты
-- 📚 Глубоко погрузился в разработку
 - 🏆 Участник хакатона от [**Standoff**](https://github.com/Loftven/active_man)
 - 🏆 **Победитель** хакатона [**"Марафон цифровых решений"**](https://github.com/seva123321/Instruction)
 - 🏆 Участник хакатона [**Лидеры цифровой трансормации 2025**](https://github.com/nepa27/bpla_viewer)
 - 🕵️‍♂️ Участвовал в антифрод-стартапе (парсинг мошеннических ресурсов)
 - 🤖 Пишу Telegram-ботов на **aiogram3**
-- 🧠 Сильные стороны: организованность, инициативность, работа с многозадачностью
 
 ---
 
@@ -77,8 +73,3 @@
 [![Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nepa27)
 [![Email](https://img.shields.io/badge/Email_меня-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksandrnahimov@yandex.ru)
 [![GitHub](https://img.shields.io/badge/Мой_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nepa27)
-
----
-
-> "Программирование — это не профессия, это образ мышления."  
-> *Всегда открыт к сотрудничеству и интересным проектам!*
